@@ -1,0 +1,14 @@
+uuid: 0818bfff-180b-4d8e-8b7e-270adf0fd7b7
+name: pantheon-d8-composer-project-elijah
+mail: elijah@elijahlynn.net
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
